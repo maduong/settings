@@ -1,0 +1,8 @@
+{
+    "alias": "edutalk-settings",
+    "name": "Settings",
+    "author": "Vuong Pham - <a href=\"https://github.com/vuong.pham\">https://github.com/vuong.pham</a>",
+    "description": "Manage CMS settings",
+    "namespace": "Edutalk\\Base\\Settings",
+    "autoload": "psr-4"
+}
